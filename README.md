@@ -50,7 +50,7 @@ npm start
 # Acess the App / Erişim:
 Open a web browser and navigate to http://localhost:2121 to access the chat app. 
 
-Bir web tarayıcısı açın ve sohbet uygulamasına erişmek için http://localhost:2121 adresine gidin
+Bir web tarayıcısı açın ve servere erişmek için http://localhost:2121 adresine gidin
 
 ``
 # App Controls / Settings/ Kontroller:
