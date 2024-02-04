@@ -134,9 +134,9 @@ Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak 
 
 ### <span style="color:#FFD700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: large;">Meet Roween</span>
 
-![Star Banner](https://img.shields.io/badge/★-Roween-FFD700?style=for-the-badge)
+![Star Banner](https://img.shields.io/badge/🕶️-Roween-FFD700?style=for-the-badge)
 
 - **GitHub:** [![GitHub Banner](https://img.shields.io/badge/GitHub-RoweenTheGod-333333?style=for-the-badge)](https://github.com/RoweenTheGod/)
-- **Twitter:** [![Twitter Banner](https://img.shields.io/badge/Twitter-Roween-333333?style=for-the-badge)](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
-- **ICQ:** [![ICQ Banner](https://img.shields.io/badge/ICQ-Roween-333333?style=for-the-badge)](https://web.icq.com/RoweenTheGod)
-- **LinkedIn:** [![LinkedIn Banner](https://img.shields.io/badge/LinkedIn-Roween-333333?style=for-the-badge)](https://it.linkedin.com/RoweenIlDio)
+- **Twitter:** [![Twitter Banner](https://img.shields.io/badge/Twitter-RoweenTheGod-333333?style=for-the-badge)](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
+- **ICQ:** [![ICQ Banner](https://img.shields.io/badge/ICQ-RoweenTheGod-333333?style=for-the-badge)](https://web.icq.com/RoweenTheGod)
+- **LinkedIn:** [![LinkedIn Banner](https://img.shields.io/badge/LinkedIn-RoweenIlDio-333333?style=for-the-badge)](https://it.linkedin.com/RoweenIlDio)
