@@ -141,13 +141,13 @@ Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak 
 
 ---
 
-### <span style="color:#DB4437">Contact Details</span>
+### <span style="color:#0F9D58">Contact Details</span>
 
-![Contact Details Banner](https://img.shields.io/badge/Contact-Details-red?style=for-the-badge)
+![Contact Details Banner](https://img.shields.io/badge/Contact-Details-green?style=for-the-badge)
 
-- **Primary Email:** ![loft91@yt-google.com](https://img.shields.io/badge/loft91%40yt--google.com-red?style=for-the-badge)
-- **Secondary Email:** ![vasile.preda@liceulsaligny-tr.ro](https://img.shields.io/badge/vasile.preda%40liceulsaligny--tr.ro-red?style=for-the-badge)
+- **Primary Email:** ![loft91@yt-google.com](https://img.shields.io/badge/loft91%40yt--google.com-green?style=for-the-badge)
+- **Secondary Email:** ![vasile.preda@liceulsaligny-tr.ro](https://img.shields.io/badge/vasile.preda%40liceulsaligny--tr.ro-green?style=for-the-badge)
 - **ICQ:** [Connect on ICQ](https://web.icq.com/RoweenTheGod)
 - **Twitter:** [Follow on Twitter](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
 - **LinkedIn:** [Visit LinkedIn Profile](https://it.linkedin.com/RoweenIlDio)
-
+- 
