@@ -132,9 +132,9 @@ Users can upload any file type, including documents, images, audio files, and mo
 
 Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak üzere her türlü dosya türünü gönderip almalarına izin verilir.
 
-### <span style="color:#FFA500; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Meet Roween</span>
+### <span style="color:#FFD700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: large;">Meet Roween</span>
 
-![Skull Banner](https://img.shields.io/badge/Skull-💀-000000?style=for-the-badge)
+![Star Banner](https://img.shields.io/badge/★-Roween-FFD700?style=for-the-badge)
 
 - **GitHub:** [RoweenTheGod](https://github.com/RoweenTheGod/)
 - **Twitter:** [Roween's Twitter](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
@@ -143,6 +143,6 @@ Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak 
 
 ---
 
-### <span style="color:#800080; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Contact Details</span>
+### <span style="color:#800080; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: large;">Contact Details</span>
 
 ![Contact Details Banner](https://img.shields.io/badge/Contact-Details-800080?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAzVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////8AYs21AAAAB3RSTlMA1KFu3PLILolj4ktzAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAd1JREFUOMutl0FPlDAQRZFYyGbZFVCzVBkYkbGKJbGz/wMzKq/6gxD4z89s12c+2bvUZ3DxeCoMs9J7EYLTM8N+ma8Mtr0ml1kBOvYbYDfAvNexIYvOQ0TwFbNb7ZzvqDXDgG3kwiN2f28Dzwdd2GSSemHpD4IZ2w4ZSbHdNgNd+DTkOzDS2K2EPdEpt0o9QoWwZpIXoiTTUI16Jk3mwx5UKk6XyCw4YjmE/jMGOCLp9kIEdS14y5PbHDN0p3QkbRG0uQ4B3lQpHp37PZVgL9HQrVLCezKEbFFUoquKlIDyWo3pdOUEqiUwG0JXt6D6iVJa4oh6tY1R7xe1cBRjkeRlEZtQKkiRRRe5iOMgApbXMQV4rNBGIcHrqgUxcSHSZF8YDoy4GFptPG0gKi9ShR2pY+JjGIGZF5FNKvL3WkJ0pt0jJPCyOsFKCZxYyaMrYwGvwnII6t6TKE8NhiYk6nSJ+8TQb7BT7/bsLfQSq3cRjCdH0U9SUS0g)
