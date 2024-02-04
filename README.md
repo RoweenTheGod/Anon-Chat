@@ -132,22 +132,14 @@ Users can upload any file type, including documents, images, audio files, and mo
 
 Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak üzere her türlü dosya türünü gönderip almalarına izin verilir.
 
-### <span style="color:#4285F4">Meet the Author</span>
+### <span style="color:#FFA500; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Meet Roween</span>
 
-![Meet the Author Banner](https://img.shields.io/badge/Author-R33-blue?style=for-the-badge)
+![Meet Roween Banner](https://img.shields.io/badge/Author-Roween-FFA500?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAzVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////8AYs21AAAAB3RSTlMA1KFu3PLILolj4ktzAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAd1JREFUOMutl0FPlDAQRZFYyGbZFVCzVBkYkbGKJbGz/wMzKq/6gxD4z89s12c+2bvUZ3DxeCoMs9J7EYLTM8N+ma8Mtr0ml1kBOvYbYDfAvNexIYvOQ0TwFbNb7ZzvqDXDgG3kwiN2f28Dzwdd2GSSemHpD4IZ2w4ZSbHdNgNd+DTkOzDS2K2EPdEpt0o9QoWwZpIXoiTTUI16Jk3mwx5UKk6XyCw4YjmE/jMGOCLp9kIEdS14y5PbHDN0p3QkbRG0uQ4B3lQpHp37PZVgL9HQrVLCezKEbFFUoquKlIDyWo3pdOUEqiUwG0JXt6D6iVJa4oh6tY1R7xe1cBRjkeRlEZtQKkiRRRe5iOMgApbXMQV4rNBGIcHrqgUxcSHSZF8YDoy4GFptPG0gKi9ShR2pY+JjGIGZF5FNKvL3WkJ0pt0jJPCyOsFKCZxYyaMrYwGvwnII6t6TKE8NhiYk6nSJ+8TQb7BT7/bsLfQSq3cRjCdH0U9SUS0g)
 
-- **Name:** R33
 - **GitHub:** [RoweenTheGod](https://github.com/RoweenTheGod/)
 
 ---
 
-### <span style="color:#0F9D58">Contact Details</span>
+### <span style="color:#800080; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Contact Details</span>
 
-![Contact Details Banner](https://img.shields.io/badge/Contact-Details-green?style=for-the-badge)
-
-- **Primary Email:** ![loft91@yt-google.com](https://img.shields.io/badge/loft91%40yt--google.com-green?style=for-the-badge)
-- **Secondary Email:** ![vasile.preda@liceulsaligny-tr.ro](https://img.shields.io/badge/vasile.preda%40liceulsaligny--tr.ro-green?style=for-the-badge)
-- **ICQ:** [Connect on ICQ](https://web.icq.com/RoweenTheGod)
-- **Twitter:** [Follow on Twitter](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
-- **LinkedIn:** [Visit LinkedIn Profile](https://it.linkedin.com/RoweenIlDio)
-- 
+![Contact Details Banner](https://img.shields.io/badge/Contact-Details-800080?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAzVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////8AYs21AAAAB3RSTlMA1KFu3PLILolj4ktzAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAd1JREFUOMutl0FPlDAQRZFYyGbZFVCzVBkYkbGKJbGz/wMzKq/6gxD4z89s12c+2bvUZ3DxeCoMs9J7EYLTM8N+ma8Mtr0ml1kBOvYbYDfAvNexIYvOQ0TwFbNb7ZzvqDXDgG3kwiN2f28Dzwdd2GSSemHpD4IZ2w4ZSbHdNgNd+DTkOzDS2K2EPdEpt0o9QoWwZpIXoiTTUI16Jk3mwx5UKk6XyCw4YjmE/jMGOCLp9kIEdS14y5PbHDN0p3QkbRG0uQ4B3lQpHp37PZVgL9HQrVLCezKEbFFUoquKlIDyWo3pdOUEqiUwG0JXt6D6iVJa4oh6tY1R7xe1cBRjkeRlEZtQKkiRRRe5iOMgApbXMQV4rNBGIcHrqgUxcSHSZF8YDoy4GFptPG0gKi9ShR2pY+JjGIGZF5FNKvL3WkJ0pt0jJPCyOsFKCZxYyaMrYwGvwnII6t6TKE8NhiYk6nSJ+8TQb7BT7/bsLfQSq3cRjCdH0U9SUS0g)
