@@ -134,6 +134,8 @@ Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak 
 
 ### <span style="color:#4285F4">Meet the Author</span>
 
+![Meet the Author Banner](https://img.shields.io/badge/Author-R33-blue?style=for-the-badge)
+
 - **Name:** R33
 - **GitHub:** [RoweenTheGod](https://github.com/RoweenTheGod/)
 
@@ -141,9 +143,10 @@ Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak 
 
 ### <span style="color:#DB4437">Contact Details</span>
 
+![Contact Details Banner](https://img.shields.io/badge/Contact-Details-red?style=for-the-badge)
+
 - **Primary Email:** [loft91@yt-google.com](mailto:loft91@yt-google.com)
 - **Secondary Email:** [vasile.preda@liceulsaligny-tr.ro](mailto:vasile.preda@liceulsaligny-tr.ro)
 - **ICQ:** [Connect on ICQ](https://web.icq.com/RoweenTheGod)
 - **Twitter:** [Follow on Twitter](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
 - **LinkedIn:** [Visit LinkedIn Profile](https://it.linkedin.com/RoweenIlDio)
-
