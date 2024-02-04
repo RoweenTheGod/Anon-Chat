@@ -132,20 +132,21 @@ Users can upload any file type, including documents, images, audio files, and mo
 
 Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak üzere her türlü dosya türünü gönderip almalarına izin verilir.
 
+---
 
+### <span style="color:#0F9D58">Author Information</span>
 
-### Author Information:
+- **Author:** R33
+- **GitHub:** [RoweenTheGod](https://github.com/RoweenTheGod/)
 
-- **Author:** RoweenIlDio
-- **GitHub:** ![RoweenTheGod](https://img.shields.io/badge/GitHub-YourGitHubUsername-blue?style=flat-square&logo=github)
+---
 
-### Contact Information:
+### <span style="color:#DB4437">Contact Information</span>
 
-- **Email:** ![loft91@yt-google.com](https://img.shields.io/badge/Email-your.email%40example.com-red?style=flat-square&logo=email)
+- **Email:** [loft91@yt-google.com](mailto:loft91@yt-google.com)
+- **Second Email:** [vasile.preda@liceulsaligny-tr.ro](mailto:vasile.preda@liceulsaligny-tr.ro)
+- **ICQ:** [Your ICQ Profile](https://web.icq.com/RoweenTheGod)
+- **Twitter:** [Your Twitter Profile](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
+- **LinkedIn:** [Your LinkedIn Profile](https://it.linkedin.com/RoweenIlDio)
 
-- **Email:** ![vasile.preda@liceulsaligny-tr.ro](https://img.shields.io/badge/Email-your.email%40example.com-red?style=flat-square&logo=email)
-  - 
-- **ICQ:** ![https://web.icq.com/RoweenTheGod](https://img.shields.io/badge/ICQ-YourICQNumber-blue?style=flat-square&logo=icq)
-- **Twitter:** ![https://x.com/RoweenTheGod](https://img.shields.io/badge/Twitter-YourTwitterUsername-blue?style=flat-square&logo=twitter)
-- **LinkedIn:** ![RoweenIlDio](https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=flat-square&logo=linkedin)
-
+---
