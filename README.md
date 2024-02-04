@@ -1,30 +1,53 @@
 ### Anon-Chat ###
 
+Welcome to the Chat App! This secure and encrypted chat application is built using Node.js, Express, and Socket.io. It ensures your messages remain private through Advanced Encryption Standard (AES) and Rivest-Shamir-Adleman (RSA) encryption. Follow the steps below to set up the chat app and enjoy secure communication with your friends.
+
 # Anonym Chat App Setup and Usage Guide / Anonim Chat Server Kurulum ve Kullanım Kılavuzu
 
-Welcome to the Anon-Chat! This guide will walk u through the installation process, usage instructions, and additional details to get started with the secure and anonymous chat platform.
+This guide will walk u through the installation process, usage instructions, and additional details to get started with the secure and anonymous chat platform.
 
 Hoş geldiniz! Bu kılavuz, güvenli ve anonim sohbet platformuna başlamak için kurulum sürecini, kullanım talimatlarını ve ek detayları içermektedir.
 
 # Installation / Kurulum:
 
+Create a new directory for the project and initialize a new Node.js project using `npm init`.
+
+'```bash
+mkdir chat-app
+cd chat-app
+npm init'
+
 Clone the repository from GitHub to ur local machine:
 
 Depoyu GitHub'dan yerel makinenize klonlayın: #
 
-git clone https://github.com/RoweenTheGod/Anon-Chat.git
-
-``
-# Navigate to the Project Directory / Proje Dizinine Git:
-
-cd anonymous-chat-app
+'git clone https://github.com/RoweenTheGod/Anon-Chat.git'
 
 ``
 # Install Dependencies / Bağımlılıkları Yükle:
 
 Run the following command to install the required dependencies:
 
-npm install
+"Make sure Node.js installed on ur machine."
+
+'npm install'
+
+``
+Step 2: Install Dependencies:
+$ npm install express socket.io crypto
+
+``
+Server-Side Code (app.js):
+
+[Create a file named app.js for the server-side code.
+
+'https://github.com/RoweenTheGod/Anon-Chat/blob/main/App.js']
+
+[Create index.html and client.js for the client-side code.
+
+client-Side Code (index.html, client.js):
+
+'https://github.com/RoweenTheGod/Anon-Chat/blob/main/Client.js']
 
 ``
 # Generate SSL/TLS Certificates SSL/TLS. 
