@@ -136,7 +136,7 @@ Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak 
 
 ![Star Banner](https://img.shields.io/badge/★-Roween-FFD700?style=for-the-badge)
 
-- **GitHub:** [<span style="color:#00BFFF;">RoweenTheGod</span>](https://github.com/RoweenTheGod/)
-- **Twitter:** [<span style="color:#1DA1F2;">Roween's Twitter</span>](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
-- **ICQ:** [<span style="color:#00CED1;">Connect on ICQ</span>](https://web.icq.com/RoweenTheGod)
-- **LinkedIn:** [<span style="color:#0077B5;">Roween's LinkedIn</span>](https://it.linkedin.com/RoweenIlDio)
+- **GitHub:** [![GitHub Banner](https://img.shields.io/badge/GitHub-RoweenTheGod-333333?style=for-the-badge)](https://github.com/RoweenTheGod/)
+- **Twitter:** [![Twitter Banner](https://img.shields.io/badge/Twitter-Roween-333333?style=for-the-badge)](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
+- **ICQ:** [![ICQ Banner](https://img.shields.io/badge/ICQ-Roween-333333?style=for-the-badge)](https://web.icq.com/RoweenTheGod)
+- **LinkedIn:** [![LinkedIn Banner](https://img.shields.io/badge/LinkedIn-Roween-333333?style=for-the-badge)](https://it.linkedin.com/RoweenIlDio)
