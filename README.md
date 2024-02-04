@@ -132,11 +132,11 @@ Users can upload any file type, including documents, images, audio files, and mo
 
 Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak üzere her türlü dosya türünü gönderip almalarına izin verilir.
 
-### <span style="color:#FFD700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: large;">Meet Roween</span>
+### <span style="color:#FFD700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: large;">CONTACT ME AT</span>
 
-![Star Banner](https://img.shields.io/badge/🕶️-Roween-FFD700?style=for-the-badge)
+![Star Banner](https://img.shields.io/badge/★-Roween-FFD700?style=for-the-badge)
 
-- **GitHub:** [![GitHub Banner](https://img.shields.io/badge/GitHub-RoweenTheGod-333333?style=for-the-badge)](https://github.com/RoweenTheGod/)
-- **Twitter:** [![Twitter Banner](https://img.shields.io/badge/Twitter-RoweenTheGod-333333?style=for-the-badge)](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
-- **ICQ:** [![ICQ Banner](https://img.shields.io/badge/ICQ-RoweenTheGod-333333?style=for-the-badge)](https://web.icq.com/RoweenTheGod)
-- **LinkedIn:** [![LinkedIn Banner](https://img.shields.io/badge/LinkedIn-RoweenIlDio-333333?style=for-the-badge)](https://it.linkedin.com/RoweenIlDio)
+- **GitHub:** [![GitHub Banner](https://img.shields.io/badge/🔗-RoweenTheGod-333333?style=for-the-badge)](https://github.com/RoweenTheGod/)
+- **Twitter:** [![Twitter Banner](https://img.shields.io/badge/🔗-RoweenTheGod-333333?style=for-the-badge)](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
+- **ICQ:** [![ICQ Banner](https://img.shields.io/badge/🔗-RoweenTheGod-333333?style=for-the-badge)](https://web.icq.com/RoweenTheGod)
+- **LinkedIn:** [![LinkedIn Banner](https://img.shields.io/badge/🔗-RoweenIlDio-333333?style=for-the-badge)](https://it.linkedin.com/RoweenIlDio)
