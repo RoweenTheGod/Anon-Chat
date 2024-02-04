@@ -136,7 +136,7 @@ Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak 
 
 ![Star Banner](https://img.shields.io/badge/★-Roween-FFD700?style=for-the-badge)
 
-- **GitHub:** [RoweenTheGod](https://github.com/RoweenTheGod/)
-- **Twitter:** [Roween's Twitter](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
-- **ICQ:** [Connect on ICQ](https://web.icq.com/RoweenTheGod)
-- **LinkedIn:** [Roween's LinkedIn](https://it.linkedin.com/RoweenIlDio)
+- **GitHub:** [<span style="color:#00BFFF;">RoweenTheGod</span>](https://github.com/RoweenTheGod/)
+- **Twitter:** [<span style="color:#1DA1F2;">Roween's Twitter</span>](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
+- **ICQ:** [<span style="color:#00CED1;">Connect on ICQ</span>](https://web.icq.com/RoweenTheGod)
+- **LinkedIn:** [<span style="color:#0077B5;">Roween's LinkedIn</span>](https://it.linkedin.com/RoweenIlDio)
