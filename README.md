@@ -132,21 +132,18 @@ Users can upload any file type, including documents, images, audio files, and mo
 
 Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak üzere her türlü dosya türünü gönderip almalarına izin verilir.
 
----
+### <span style="color:#4285F4">Meet the Author</span>
 
-### <span style="color:#0F9D58">Author Information</span>
-
-- **Author:** R33
+- **Name:** R33
 - **GitHub:** [RoweenTheGod](https://github.com/RoweenTheGod/)
 
 ---
 
-### <span style="color:#DB4437">Contact Information</span>
+### <span style="color:#DB4437">Contact Details</span>
 
-- **Email:** [loft91@yt-google.com](mailto:loft91@yt-google.com)
-- **Second Email:** [vasile.preda@liceulsaligny-tr.ro](mailto:vasile.preda@liceulsaligny-tr.ro)
-- **ICQ:** [Your ICQ Profile](https://web.icq.com/RoweenTheGod)
-- **Twitter:** [Your Twitter Profile](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
-- **LinkedIn:** [Your LinkedIn Profile](https://it.linkedin.com/RoweenIlDio)
+- **Primary Email:** [loft91@yt-google.com](mailto:loft91@yt-google.com)
+- **Secondary Email:** [vasile.preda@liceulsaligny-tr.ro](mailto:vasile.preda@liceulsaligny-tr.ro)
+- **ICQ:** [Connect on ICQ](https://web.icq.com/RoweenTheGod)
+- **Twitter:** [Follow on Twitter](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
+- **LinkedIn:** [Visit LinkedIn Profile](https://it.linkedin.com/RoweenIlDio)
 
----
