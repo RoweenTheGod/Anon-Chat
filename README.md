@@ -131,3 +131,21 @@ Kullanıcılar tarafından yüklenen dosyalar, sunucuya iletilmeden önce istemc
 Users can upload any file type, including documents, images, audio files, and more. All file types are accepted.
 
 Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak üzere her türlü dosya türünü gönderip almalarına izin verilir.
+
+
+
+### Author Information:
+
+- **Author:** RoweenIlDio
+- **GitHub:** ![RoweenTheGod](https://img.shields.io/badge/GitHub-YourGitHubUsername-blue?style=flat-square&logo=github)
+
+### Contact Information:
+
+- **Email:** ![loft91@yt-google.com](https://img.shields.io/badge/Email-your.email%40example.com-red?style=flat-square&logo=email)
+
+- **Email:** ![vasile.preda@liceulsaligny-tr.ro](https://img.shields.io/badge/Email-your.email%40example.com-red?style=flat-square&logo=email)
+  - 
+- **ICQ:** ![https://web.icq.com/RoweenTheGod](https://img.shields.io/badge/ICQ-YourICQNumber-blue?style=flat-square&logo=icq)
+- **Twitter:** ![https://x.com/RoweenTheGod](https://img.shields.io/badge/Twitter-YourTwitterUsername-blue?style=flat-square&logo=twitter)
+- **LinkedIn:** ![RoweenIlDio](https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=flat-square&logo=linkedin)
+
