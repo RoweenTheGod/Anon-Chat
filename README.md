@@ -137,6 +137,9 @@ Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak 
 ![Skull Banner](https://img.shields.io/badge/Skull-💀-000000?style=for-the-badge)
 
 - **GitHub:** [RoweenTheGod](https://github.com/RoweenTheGod/)
+- **Twitter:** [Roween's Twitter](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
+- **ICQ:** [Connect on ICQ](https://web.icq.com/RoweenTheGod)
+- **LinkedIn:** [Roween's LinkedIn](https://it.linkedin.com/RoweenIlDio)
 
 ---
 
