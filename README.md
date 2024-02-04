@@ -34,7 +34,7 @@ npm install
 # Copy all the code and paste in terminal. / tüm kodu kopyalayıp terminale yapıştırın.
 
 ``
-# $ openssl req -x509 -newkey rsa:4096 -keyout server.key -out server.crt -days 365 -nodes -subj "/C=US/ST=CA/L=San Francisco/O=MyOrg/OU=MyUnit/CN=localhost"
+$ openssl req -x509 -newkey rsa:4096 -keyout server.key -out server.crt -days 365 -nodes -subj "/C=US/ST=CA/L=San Francisco/O=MyOrg/OU=MyUnit/CN=localhost"
 
 ``
 # Start the Server / Sunucuyu Başlat:
