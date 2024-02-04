@@ -1,6 +1,6 @@
 ### Anon-Chat ###
 
-Welcome to the Chat App! This secure and encrypted chat application is built using Node.js, Express, and Socket.io. It ensures your messages remain private through Advanced Encryption Standard (AES) and Rivest-Shamir-Adleman (RSA) encryption. Follow the steps below to set up the chat app and enjoy secure communication with your friends.
+Welcome to the Chat App! This secure and encrypted chat application is built using Node.js, Express, and Socket.io. It ensures your messages remain private through Advanced Encryption Standard (AES) and Rivest-Shamir-Adleman (RSA) encryption. Follow the steps below to set up the chat app and enjoy secure communication with ur friends and projects!
 
 # Anonym Chat App Setup and Usage Guide / Anonim Chat Server Kurulum ve Kullanım Kılavuzu
 
