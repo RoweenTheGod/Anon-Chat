@@ -134,7 +134,7 @@ Kullanıcılar; belgeler, resimler, ses dosyaları ve daha fazlası dahil olmak 
 
 ### <span style="color:#FFD700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: large;">CONTACT ME AT</span>
 
-![Star Banner](https://img.shields.io/badge/★-Roween-FFD700?style=for-the-badge)
+![Star Banner](https://img.shields.io/badge/★- ALL RIGHS RESERVED BY BHH GROUP-FFD700?style=for-the-badge)
 
 - **GitHub:** [![GitHub Banner](https://img.shields.io/badge/🔗-RoweenTheGod-333333?style=for-the-badge)](https://github.com/RoweenTheGod/)
 - **Twitter:** [![Twitter Banner](https://img.shields.io/badge/🔗-RoweenTheGod-333333?style=for-the-badge)](https://x.com/RoweenTheGod?t=juGNQvoFtWgD3tds64DMng&s=09)
